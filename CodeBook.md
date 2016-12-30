@@ -23,3 +23,27 @@ Here are the data for the project:[download link](https://d396qusza40orc.cloudfr
 7. Saves this dataset as: `clean_dataset.txt`. The dimensions are: 10299x68. Which are 66 features of Mean or Std, the Activity and the Subject.
 8. Create a new dataset with the averages of each column grouped by activities and subject
 9. Saves the latter dataset as: `average_dataset.txt`. The dimensions are: 180x68. Which are 66 features of Mean or Std, the Activity and the Subject. And there are 180 rows = 6 activities x 30 subjects.
+
+## Variable names
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+gravityMean
+tBodyAccMean
+tBodyAccJerkMean
+tBodyGyroMean
+tBodyGyroJerkMean
